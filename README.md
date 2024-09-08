@@ -13,7 +13,7 @@
 
 ## Watch the Demo Video
 
-[![Watch the video](https://www.youtube.com/watch?v=1XZWCZXgkjQ&ab_channel=GayanBrahmanage.jpg)](https://www.youtube.com/watch?v=1XZWCZXgkjQ&ab_channel=GayanBrahmanage)
+[![Watch the video](https://www.youtube.com/watch?v=1XZWCZXgkjQ&ab_channel=GayanBrahmanage/0.jpg)](https://www.youtube.com/watch?v=1XZWCZXgkjQ&ab_channel=GayanBrahmanage)
 
 
 
