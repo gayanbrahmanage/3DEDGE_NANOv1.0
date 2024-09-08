@@ -12,13 +12,7 @@
  ![alt text](extra/gui.png)
 
 ## Watch the Demo Video
-
-## Watch the Demo Video
-
 [![Watch the video](https://img.youtube.com/vi/1XZWCZXgkjQ&ab/hqdefault.jpg)](https://youtu.be/1XZWCZXgkjQ&ab)
-
-
-[![YouTube](http://img.youtube.com/vi/watch?v=1XZWCZXgkjQ&ab_channel=GayanBrahmanage/0.jpg)](https://www.youtube.com/watch?v=1XZWCZXgkjQ&ab_channel=GayanBrahmanage)
 
 
 
