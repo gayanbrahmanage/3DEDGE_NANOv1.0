@@ -12,7 +12,5 @@
  ![alt text](extra/gui.png)
 
 ## Watch the Demo Video
-[![Watch the video](https://img.youtube.com/vi/1XZWCZXgkjQ&ab/hqdefault.jpg)](https://youtu.be/1XZWCZXgkjQ&ab)
-
-
+[![Watch the video](https://img.youtube.com/vi/1XZWCZXgkjQ/hqdefault.jpg)](https://youtu.be/1XZWCZXgkjQ)
 
